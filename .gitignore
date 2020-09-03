@@ -1,2 +1,4 @@
 .env
 test.py
+set_environ.py
+__pycache__
