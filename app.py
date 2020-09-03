@@ -4,7 +4,7 @@ import os, sys
 import time, datetime
 
 from ds18b20 import read_temp, OneW_init
-from Message import send_Whatsappmessage
+from Messages import send_Whatsappmessage
 from TemperatureEventClass import TempEvent
 from decouple import config                     #for reading environment variables
 

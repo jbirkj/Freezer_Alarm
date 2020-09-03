@@ -1,6 +1,6 @@
 #TemperatureEventClass.py
 from datetime import timedelta, datetime
-from Message import send_Whatsappmessage
+from Messages import send_Whatsappmessage
 
 class TempEvent():
 
